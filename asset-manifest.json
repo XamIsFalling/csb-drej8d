@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://xamisfalling.github.io/csb-drej8d/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://xamisfalling.github.io/csb-drej8d/static/js/main.f17ebb40.chunk.js",
-    "main.js.map": "https://xamisfalling.github.io/csb-drej8d/static/js/main.f17ebb40.chunk.js.map",
+    "main.js": "https://xamisfalling.github.io/csb-drej8d/static/js/main.1048adfc.chunk.js",
+    "main.js.map": "https://xamisfalling.github.io/csb-drej8d/static/js/main.1048adfc.chunk.js.map",
     "runtime-main.js": "https://xamisfalling.github.io/csb-drej8d/static/js/runtime-main.771517f5.js",
     "runtime-main.js.map": "https://xamisfalling.github.io/csb-drej8d/static/js/runtime-main.771517f5.js.map",
     "static/js/2.3b096fcb.chunk.js": "https://xamisfalling.github.io/csb-drej8d/static/js/2.3b096fcb.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.771517f5.js",
     "static/js/2.3b096fcb.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.f17ebb40.chunk.js"
+    "static/js/main.1048adfc.chunk.js"
   ]
 }
